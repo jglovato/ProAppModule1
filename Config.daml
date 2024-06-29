@@ -29,7 +29,7 @@
       <groups>
         <!-- comment this out if you have no controls on the Addin tab to avoid
               an empty group-->
-        <group id="ProAppModule1_Group1" caption="Group 1" appearsOnAddInTab="true">
+        <group id="ProAppModule1_Group1" caption="Group 2" appearsOnAddInTab="true">
           <!-- host controls within groups -->
         </group>
       </groups>
